@@ -1,10 +1,16 @@
 Welcome to development branch
 To get started:
+
 Make sure you are on a desktop or laptop
+
 Step 1: Click on Fork at the top right corner
+
 Step 2: Click on clone or download, copy the url you see after clicking on it
+
 Step 3: Head to your local machine and create a folder, (this step is not necessary but to keep your work organized on your local machine, you can create folder called ‘github repo’ on your desktop).
+
 Step 4: Open your preferred terminal
+
 Here you have arrays of choice, you could use git bash (you have to download it to use it. Download it here -> [GitHub]https://git-scm.com/downloads)), powershell or your default window terminal.
 If you want to use git bash:
 4.1 Open the ‘github repo’ folder, remember you saved it on your desktop.
